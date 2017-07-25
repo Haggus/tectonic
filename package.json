@@ -1,0 +1,14 @@
+{
+  "name": "tectonic",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git@github.com:Haggus/tectonic.git",
+  "author": "Mateusz 'Haggus' Mrowiec <matt.mrowiec@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
