@@ -1,0 +1,6 @@
+{
+  "extends": ["sensible/babel"],
+  "env": {
+    "browser": true
+  }
+}
