@@ -2,7 +2,7 @@ import Rx from 'rx-lite';
 
 class Events {
   constructor() {
-    this.keyStream = Rx.Observable.fromEvent(document.body, 'keyup');
+    this.keyStream = Rx.Observable.fromEvent(document, 'keyup');
   }
 }
 
